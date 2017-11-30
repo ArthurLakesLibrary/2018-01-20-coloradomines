@@ -1,3 +1,9 @@
+
+This is a repository hosting the workshop site for the Software Carpentry Workshop scheduled on Jan 20-21, 2018 at Colorado School of Mines. The workshop website can be accessed at <https://minescarpentries.github.io/2018-01-20-MinesSWC/>. 
+
+Below this line is the instrution we followed to customize this website. 
+____________________________________________________________________________________________
+
 # workshop-template
 
 This repository is [Software Carpentry][swc-site] and [Data Carpentry][dc-site]'s
