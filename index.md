@@ -317,6 +317,11 @@ eventbrite: 41212251955         # optional: alphanumeric key for Eventbrite regi
             {% comment %} Adjusting your PATH environment {% endcomment %}
             <li>
               <strong>
+                Select "Use the Nano editor by default" and click on "Next".
+              </strong>
+            </li>
+            <li>
+              <strong>
                 Keep "Use Git from the Windows Command Prompt" selected and click on "Next".
               </strong>
                 If you forgot to do this programs that you need for the workshop will not work properly.
