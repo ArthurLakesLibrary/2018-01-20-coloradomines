@@ -46,7 +46,9 @@ eventbrite: 41212251955         # optional: alphanumeric key for Eventbrite regi
 </iframe>
 {% endif %}
 
-
+<p>
+<strong>Due to inclement weather at Denver area, the 2nd half of the workshop is rescheduled to 9am - 4:30pm on Sunday, 1/28, 2018. Registered attendees have been notified individually. </strong>
+</p>
 
 <h2 id="general">General Information</h2>
 
@@ -179,7 +181,7 @@ eventbrite: 41212251955         # optional: alphanumeric key for Eventbrite regi
   for more information.
 </p>
 <p>
-<strong>Due to inclement weather at Denver area, the 2nd half of the workshop is rescheduled to 9am - 4:30pm on Sunday, 1/28, 2018. Registered attendees have been notified separately. </strong>
+<strong>Due to inclement weather at Denver area, the 2nd half of the workshop is rescheduled to 9am - 4:30pm on Sunday, 1/28, 2018. Registered attendees have been notified individually. </strong>
 </p>
 <hr/>
 
